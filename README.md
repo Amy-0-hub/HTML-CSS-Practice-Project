@@ -13,3 +13,15 @@ The main goal of this repo is to **practice and deepen my understanding of CSS**
 - Using Flexbox to create flexible page structures
 - Playing with spacing: margin, padding, border. Also, **css box model**
 - Basic responsive design ideas
+
+📌 **Note:**
+
+- Most of my hands-on CSS practice, layout experiments, and style testing are in `css_copy/styles.css`. This file serves as my working draft while learning.
+- All modifications and learning experiments are done mainly in the **CSS files**
+- This is a personal learning project — not meant to replicate the original tutorial fully
+
+## 🧪 How to View
+
+1. Clone or download the repository
+2. Open `index.html` in a web browser
+3. Explore `style.css` and `css_copy/styles.css` to see how styles were applied and tested
